@@ -1,0 +1,21 @@
+Start of POSIX Socket Client Test 0
+Attempt 1 of 5
+Connecting to 127.0.0.1:7496 clientId:0
+Cannot connect to 127.0.0.1:7496 clientId:0
+Sleeping 5 seconds before next attempt
+Attempt 2 of 5
+Connecting to 127.0.0.1:7496 clientId:0
+Cannot connect to 127.0.0.1:7496 clientId:0
+Sleeping 5 seconds before next attempt
+Attempt 3 of 5
+Connecting to 127.0.0.1:7496 clientId:0
+Cannot connect to 127.0.0.1:7496 clientId:0
+Sleeping 5 seconds before next attempt
+Attempt 4 of 5
+Connecting to 127.0.0.1:7496 clientId:0
+Cannot connect to 127.0.0.1:7496 clientId:0
+Sleeping 5 seconds before next attempt
+Attempt 5 of 5
+Connecting to 127.0.0.1:7496 clientId:0
+Cannot connect to 127.0.0.1:7496 clientId:0
+End of POSIX Socket Client Test
